@@ -1,0 +1,1 @@
+scoreboard players set Event-5 enable 0

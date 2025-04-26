@@ -1,0 +1,1 @@
+execute at @a[gamemode=survival] unless entity @e[type=zombie,distance=..16] run summon zombie

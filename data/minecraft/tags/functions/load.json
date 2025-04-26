@@ -1,5 +1,6 @@
 {
     "values": [
-        "atb:load"
+        "atb:load",
+        "events:load"
     ]
 }

@@ -1,0 +1,1 @@
+effect give @a[gamemode=survival] speed 1 15 true
